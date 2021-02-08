@@ -8,9 +8,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://www.antstack.io/openings/fullstack.svg" />
 
- :school_satchel: Currently working on project called Quantum 
- 🌱 Learning Product Engineering
- 👯 I completed my B.Tech in 2019 with CGPA of 7.0
+- :school_satchel: Currently working on project called Quantum 
+- 🌱 Learning Product Engineering
+- 👯 I completed my B.Tech in 2019 with CGPA of 7.0
 
 **Languages and Tools:** 
 

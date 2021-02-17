@@ -32,3 +32,12 @@
     <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1374px-Android_logo_2019.svg.png"></code>
 </p>
 
+### Interesting stats
+
+![Abhishek's stats](https://github-readme-stats.vercel.app/api?username=guptabhishek4&show_icons=true)
+
+Thanks for stopping by! 😁
+
+
+⭐️ From [Abhishek](https://github.com/guptabhishek4)
+

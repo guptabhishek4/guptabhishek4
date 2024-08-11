@@ -5,13 +5,13 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-gupta-b5135897/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ag444982@gmail.com)
 
-### I'm a full stack developer :exclamation:
+### I'm a backend java developer :exclamation:
 
 <img width="55%" align="right" alt="Github" src="https://www.antstack.io/openings/fullstack.svg" />
 
-- :school_satchel: Currently working on project called Quantum 
+- :school_satchel: Currently working as module lead at Sopra Steria. 
 - 🌱 Learning Product Engineering
-- 👯 I completed my B.Tech in 2019 with CGPA of 7.0
+- 👯 I completed my B.Tech in 2019.
 
 **Languages and Tools:** 
 

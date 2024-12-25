@@ -11,7 +11,7 @@
 
 - :school_satchel: Currently working as module lead at Sopra Steria. 
 - 🌱 Learning Product Engineering
-- 👯 I completed my B.Tech in 2019.
+- 👯 Completed my B.Tech in 2019.
 
 **Languages and Tools:** 
 
